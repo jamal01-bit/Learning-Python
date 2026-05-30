@@ -1,0 +1,5 @@
+print('17/05/26')
+print('I feel anxious about my past, present and future. I want to a better person who stands up for others')
+print('I want to learn to code so I can become an AI developer who helps pioneer space travel, I also want to help others, especially others who come from similar backgrounds to myself')
+print('Im sure you went far and even if you failed, Im proud of you for trying but I wont be proud if you gave up')
+print('Emojis are weird speak')
